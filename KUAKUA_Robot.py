@@ -1,5 +1,5 @@
 """
-   WeChat KUAKUA_Robot v0.1
+    WeChat KUAKUA_Robot v0.1
 """
 
 # -*- coding:utf-8 -*- 
@@ -10,7 +10,7 @@ import random
 import json
 
 """
-   Constants
+    Constants
 """
 
 REPLY = {'夸我': ['你真是太优秀',
