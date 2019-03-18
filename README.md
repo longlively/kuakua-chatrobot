@@ -11,7 +11,7 @@ https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw
 
 ### 前期准备
 
-- 这份代码用到了Python的itchat包，小伙伴需要提前安装一下。
+- 这份代码用到了python的itchat包，小伙伴需要提前安装一下。
 
 ```shell
 pip install itchat pillow
