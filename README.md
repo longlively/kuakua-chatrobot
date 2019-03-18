@@ -9,13 +9,15 @@ https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw
 
 <br/>
 
-### 前期准备
+### 前期准备：
 
 - 这份代码用到了python的itchat包，小伙伴需要提前安装一下。
 
 ```shell
 pip install itchat pillow
 ```
+
+### 具体实现：
 
 - 运行源代码
 
@@ -33,4 +35,4 @@ pip install itchat pillow
 
 ### 总结：
 
-用python开发的这款可以在群里实现自动夸人的机器人，是不是很简单呢：）
+用python开发的这款可以在微信群里实现自动夸人的机器人，是不是很简单呢：）
