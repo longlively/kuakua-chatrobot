@@ -17,11 +17,13 @@ https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw
 pip install itchat pillow
 ```
 
-### 具体实现：
+### 具体步骤：
 
 - 运行源代码
 
-- 扫码登录即可
+- 扫码登录
+
+- 触发关键字即可
 
 <br/>
 
@@ -34,6 +36,16 @@ pip install itchat pillow
 2019/03/19
 
 - 更新说明
+
+<br/>
+
+### 注意事项
+
+- 此回复是使用了微信网页端，如果设置了自动回复，电脑端微信自动退出。
+
+- 想要在设置哪个群为夸夸群，需要更改代码 if msg['User']['NickName'] == '群名称' ，即将'群名称'改成相应的群名字。
+
+- 语料可以自行添加扩充。
 
 <br/>
 
