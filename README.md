@@ -17,6 +17,8 @@ https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw
 pip install itchat pillow
 ```
 
+<br/>
+
 ### 具体步骤：
 
 - 运行源代码
